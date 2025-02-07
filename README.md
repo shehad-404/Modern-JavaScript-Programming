@@ -1,6 +1,6 @@
 ## How to Upload a Folder in GitHub >>> Open git bash which folder will be uploaded
 
-### Step 1: Connect to GitHub Repository
+### Step 1: Connect to GitHub Repository >>> Copy link from GitHub Repository =  https://github.com/shehad-404/Modern-JavaScript-Programming.git
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/4d95e737-56fb-45d8-bf26-a0637b8df5fd" />
 
 ### Step 2: Add Files and Commit
