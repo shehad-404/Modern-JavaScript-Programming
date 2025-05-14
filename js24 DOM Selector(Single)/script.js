@@ -1,7 +1,7 @@
 // DOM Selector (Single Elements) 
 // document.getElementById() and document.querySelector()
 
-// Part 1 >>>> document.getElementById()  >>> It can modify contents using "id"
+// Part 1 >>>> document.getElementById()  >>> It can modify contents only using "id"
 let val;
 val = document.getElementById('document-title');
 val = document.getElementById('document-title').id;
