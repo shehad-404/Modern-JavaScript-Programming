@@ -10,10 +10,12 @@ let printEverything = function(value, i, arr){
     console.log(arr);
 }
 // Function Calling with For-Each
+// forEach() — Executes a function for each element (no return)
 foods.forEach(printEverything);
 
 // Array iterarion using Mapping 
 // map() runs a function on each element but returns a new array with the return values from the callback.
+// map() is used to transform each element in an array and return a new array with the transformed values.
 let addSomething = function(item){
     console.log(`${item} is good`);
 }
