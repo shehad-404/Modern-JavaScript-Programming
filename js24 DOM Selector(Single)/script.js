@@ -19,7 +19,7 @@ val.textContent = "New Title";
 val.innerText = "Another New Title";
 val.innerHTML = "<i>New Title 3.0</i>"
 
-// Part 2 >>>>  document.querySelector()  >>>> It can modify contents using "id", "class" and "tag name"
+// Part 2 >>>>  document.querySelector()  >>>> It can modify contents using "id", "class" and "tag name" (uses "#")
 val = document.querySelector('#document-title');  // id 
 val = document.querySelector('#document-class');  // class
 

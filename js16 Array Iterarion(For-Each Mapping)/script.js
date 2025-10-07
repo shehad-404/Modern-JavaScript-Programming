@@ -13,10 +13,12 @@ let printEverything = function(value, i, arr){
 foods.forEach(printEverything);
 
 // Array iterarion using Mapping 
+// map() runs a function on each element but returns a new array with the return values from the callback.
 let addSomething = function(item){
     console.log(`${item} is good`);
 }
 
+// Square values for number array
 let arr_square = numbers.map(function(item){
     return item*item;
 })

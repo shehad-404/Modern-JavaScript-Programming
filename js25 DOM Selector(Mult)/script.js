@@ -1,5 +1,9 @@
 // Multiselector 
 // document.getElementsByClassName()
+// document.getElementsByTagName()
+// document.querySelectorAll()
+
+// document.getElementsByClassName()
 let list = document.getElementsByClassName('sample-class');
 list[0].style.background = 'red';
 list[0].style.color = 'white';

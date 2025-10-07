@@ -10,4 +10,4 @@ document.getElementById("idH3").innerHTML = "This is Heading 3 got by InnerHtml"
 var x;      // variable declaration 
 x = prompt("Enter your name:");     // takes input
 document.write(x);
-console.log(x);
+console.log(x); 

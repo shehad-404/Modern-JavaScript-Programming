@@ -18,6 +18,7 @@ function add_num(a, b) {
     console.log(`Addition of ${a} + ${b} = ${a+b}`);
 }
 
+// Third Function
 function add_num(a=0, b=1) {
         return a+b;
         // After got return >>> funtion will exits from this 

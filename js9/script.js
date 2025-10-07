@@ -21,7 +21,8 @@ var optionCon = isNaN(option);
 
 if (num1Con || num2Con || optionCon) {
     console.log("Invalid Input!");
-} else {
+} 
+else {
     switch (option) {
         case 1:
             result = num1 + num2;
